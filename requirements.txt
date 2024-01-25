@@ -1,0 +1,10 @@
+websockets
+asyncio
+protobuf
+upstox-python-sdk
+pandas
+requests
+pyotp
+pytest-playwright
+pyinstaller==4.5
+numpy
