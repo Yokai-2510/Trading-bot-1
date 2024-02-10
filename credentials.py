@@ -1,7 +1,7 @@
-API_KEY = '2d8ca9c3-b445-4444-8281-a440b6c862f9'
-SECRET_KEY = 'cfmlphypj7'
-RURL = "https://www.upstox.com/Saksham/S1"
-TOTP_KEY = 'ZEDPAY2XRXWTB2XLHVN62A4HQJ2BTXM5'
-MOBILE_NO = '8219628153'
-PIN = '070707'
+API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxx'
+SECRET_KEY = 'xxxxxxxx'
+RURL = "xxxxxxxxxxxxxx"
+TOTP_KEY = 'xxxxxxxxxxxxxxx'
+MOBILE_NO = 'xxxxxxxxxx'
+PIN = 'xxxxxx'
 
